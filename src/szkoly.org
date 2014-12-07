@@ -1,4 +1,9 @@
-* Motto --- 
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://orgmode.org/worg/style/worg.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+
+#+BEGIN_ABSTRACT
+
+Motto ---
 
 #+BEGIN_QUOTE
 My potrafimy karmić dusze milionów własnymi sercami, ale sami zawsze
@@ -32,6 +37,8 @@ zachować pamięć o tych miejscach i tych ludziach, którzy są najmilszym
 wspomnieniem z czasów dzieciństwa i młodości każdego człowieka.
 
 Aniceta Kubisiak
+#+END_ABSTRACT
+
 
 * Szkoła w Kołaczkowie
 
