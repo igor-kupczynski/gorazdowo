@@ -1,5 +1,6 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://orgmode.org/worg/style/worg.css" />
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+
+#+TITLE: Oświata w Gminie Kołaczkowo do r.1980 (szkic monograficzny).
 
 #+BEGIN_ABSTRACT
 
