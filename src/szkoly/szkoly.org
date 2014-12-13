@@ -1,6 +1,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://orgmode.org/worg/style/worg.css" />
 
 #+TITLE: Oświata w Gminie Kołaczkowo do r.1980 (szkic monograficzny).
+#+AUTHOR: Aniceta Kubisiak
 
 #+BEGIN_ABSTRACT
 
@@ -302,6 +303,93 @@ Kołaczkowie. W 1978 r. obniżono stopień organizacyjny do 3 klas.
 * Szkoła we Wszemborzu
 
 Stefania Lisiecka
+
+Czas założenia pierwszej szkoły we Wszemborzu nie dał się
+ustalić. Pewnym jest tylko, że już około 1840 roku szkoła we
+Wszemborzu istniała. Przypuszczać należy, że pierwsza szkoła powstała
+w pierwszych dziesiątkach lat dziewiętnastego wieku. Pierwszy budynek
+szkolny budowany był z gliny i kryty słomą. Stał on na miejscu, gdzie
+obecnie jest ogród szkolny, frontem do drogi.
+
+Nowy, obecny budynek szkolny został wzniesiony w roku 1895. Jest to
+budynek piętrowy, murowany z cegły, kryty dachówką, stoi szczytem do
+drogi. W pierwszym okresie istnienia znajdowały się w nim dwie sale
+lekcyjne, pozostałą cześć zajmowało dwóch nauczycieli. Była to wówczas
+publiczna szkoła powszechna pierwszego stopnia o dwóch nauczycielach.
+
+Z początkiem roku szkolnego 1935/36 uzyskano zezwolenie władz
+szkolnych na podniesienie stopnia organizacyjnego szkoły na publiczną
+szkołę powszechną o trzech nauczycielach. Trzecią izbę lekcyjną
+uzyskano z dwóch pokoi nauczycielskich. W związku z podniesieniem
+stopnia organizacyjnego, szkoła stała się szkołą zbiorczą dla
+okolicznych gromad. Uczęszczały do niej dzieci z Borzykowa,
+Kołaczkowa, Budziłowa, Łagiewek, Spławia, a niekiedy z Nowej Wsi
+Podgórnej i z Mikuszewa. W takim stanie doczekała szkoła 1 września
+1939 roku.
+
+10 września 1939 roku w budynku szkolnym zakwaterowali żołnierze
+niemieccy. Zerwali oni ze ściany frontowe godło i napis. Spalili też
+wówczas bibliotekę i akta szkolne. W miesiącach letnich 1940 roku
+otworzyli Niemcy w tym budynku szkołę niemiecką wyłącznie dla dzieci
+niemieckich. W dniu 22 stycznia 1945 roku do Wszemborza przybyło
+wojsko radzieckie. Żołnierze ci odpoczywali i nocowali w budynku
+szkolnym.
+
+Przez okres wojny budynek został zaniedbany i zniszczony. Przy pomocy
+młodzieży szkolnej budynek został uporządkowany i oczyszczony. W dniu
+12 lutego 1945 roku dokonano otwarcia polskiej szkoły. Młodzież
+szkolną podzielono na podstawie prowizorycznego egzaminu z czytania,
+pisania i rachunków na cztery klasy.
+
+W dniu 1 kwietnia z 13 najlepszych uczniów utworzono klasę piątą W
+roku szkolnym 1945/46 w szkole było już 6 klas a w
+następnym 7. Pracowało w niej 4 nauczycieli. Taki stan utrzymywał się
+do roku 1966. W latach 1966--1974 była to szkoła 8-klasowa, początkowo
+o 5-ciu nauczycielach, potem o 6-ciu. Obecnie jest to punk filialny
+Zbiorczej Szkoły Gminnej w Kołaczkowie z klasami I--III.
+
+[Zdjęcie]
+
+** Nauczyciele szkoły we Wszemborzu w latach 1918--1980
+
+1. Kahl, do 1919
+2. Machałowski Józef, 1919/1920
+3. Śrokówna Janina, 1920--1933
+4. Srokówna Zofia, 1920--1933
+5. Sadowski Jan, od 1 lipca 1933
+6. Sauer Klemens, 1933-1937
+7. Japhówna Julianna, 1936
+8. Tessarowa Stefania, od 1936
+9. Kulczak Franciszek, 1936-1937
+10. Sadowski Jan, 1945
+11. Suchorski Edmund, 1945--1946
+12. Gizelska Bonifacja, 1945
+13. Tessarowa Stefania, 1945--1949
+14. Libthalówna Prakseda, 1946--1948
+15. Galant Władysława, 1947/1948
+16. Pilarska Janina, od 1948
+17. Furmaniakówna Krystyna, od 1949
+18. Malentowicz Stanisław, od 1949
+19. Pachela Józef, od 1950
+20. Zgoliński Feliks, od 1950
+21. Budzińska Eugenia, od 1950
+22. Skalewska Zofia, 1950--1953
+23. Kaczmarkiewicz Czesława, 1951/1952
+24. Grajek Wacław, do 1955
+25. Winter Maria, 1951/1952
+26. Szmytkowska Alina, od 1954
+27. Depczyńska Bożena, od 1954
+28. Szymański Henryk, 1955/1956
+29. Tamborska Bożena, 1956/1957
+30. Pera Józef, od 1961
+31. Pera Małgorzata, od 1961
+32. Prymas Anna
+33. Lisiecka Stefania, 1966-1974
+34. Rymarska Jadwiga, od 1967
+35. Przybylska Zofia
+36. Helwing Zofia
+37. Korzeniewska Danuta
+
 
 * Szkoła w Zielińcu
 
