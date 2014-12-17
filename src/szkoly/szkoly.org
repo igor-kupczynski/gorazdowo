@@ -1,3 +1,4 @@
+#+HTML_HEAD: <link href='http://fonts.googleapis.com/css?family=Merriweather:400,400italic,900&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheet.css" />
 
 #+TITLE: Oświata w Gminie Kołaczkowo do r.1980 (szkic monograficzny).
@@ -14,7 +15,7 @@ na próżno łakniemy odrobiny szczęścia.
 -- Władysław St.Reymont
 #+END_QUOTE
 
-Oświata w Gminie Kołaczkowo do r.1980 (szkic monograficzny).
+*Oświata w Gminie Kołaczkowo do r.1980 (szkic monograficzny).*
 
 #+BEGIN_QUOTE
 ocalić od zapomnienia
@@ -44,7 +45,7 @@ Aniceta Kubisiak
 
 * Szkoła w Kołaczkowie
 
-Aniceta Kubisiak
+/Aniceta Kubisiak/
 
 Według historycznych źródeł szkoła w Kołaczkowie istniała już w 1695
 r. Trudno jest jednak zlokalizować miejsce, gdzie przez okres dwóch
@@ -156,7 +157,7 @@ wręczenie sztandaru 6 maja 1978 r.
 
 * Szkoła w Borzykowie
 
-Aniceta Kubisiak
+/Aniceta Kubisiak/
 
 Zbyt mało materiałów źródłowych istnieje na naszym terenie, aby można
 było przedstawić dawniejsze dzieje szkoły w Borzykowie. Z przekazów
@@ -213,7 +214,7 @@ okazana w ciągu całego istnienia placówki.
 
 * Szkoła w Gorazdowie
 
-Aniceta Kubisiak
+/Aniceta Kubisiak/
 
 W mroku dziejów trudno ustalić datę powstania szkoły. Faktem jest, że
 istniała, a znajdowała się, według relacji mieszkańców, w budynku
@@ -302,7 +303,7 @@ Kołaczkowie. W 1978 r. obniżono stopień organizacyjny do 3 klas.
 
 * Szkoła we Wszemborzu
 
-Stefania Lisiecka
+/Stefania Lisiecka/
 
 Czas założenia pierwszej szkoły we Wszemborzu nie dał się
 ustalić. Pewnym jest tylko, że już około 1840 roku szkoła we
@@ -390,10 +391,9 @@ Zbiorczej Szkoły Gminnej w Kołaczkowie z klasami I--III.
 36. Helwing Zofia
 37. Korzeniewska Danuta
 
-
 * Szkoła w Zielińcu
 
-Halina Starosta
+/Halina Starosta/
 
 * Szkoła w Sokolnikach
 

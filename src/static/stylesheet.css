@@ -1,7 +1,38 @@
-@import url(http://fonts.googleapis.com/css?family=Merriweather:400,900,400italic&subset=latin,latin-ext);
+@font-face {
+  font-family: 'Radley';
+  font-style: normal;
+  font-weight: 400;
+  src: url('Radley-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Radley';
+  font-style: italic;
+  font-weight: 400;
+  src: url('Radley-Italic.ttf') format('truetype');
+}
 
 body {
-  font-family: 'Merriweather', serif;
+  font-family: 'Radley', Times, Georgia, serif;
   margin: 0 auto;
-  width: 670px;
+  width: 770px;
+  font-size: 20px;
+  line-height: 28px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 45px;
+}
+
+h2 {
+  font-size: 27px;
+  line-height: 36px;
+}
+
+blockquote {
+  font-style: italic;
 }
