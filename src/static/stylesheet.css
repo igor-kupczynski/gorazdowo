@@ -1,19 +1,5 @@
-@font-face {
-  font-family: 'Radley';
-  font-style: normal;
-  font-weight: 400;
-  src: url('Radley-Regular.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Radley';
-  font-style: italic;
-  font-weight: 400;
-  src: url('Radley-Italic.ttf') format('truetype');
-}
-
 body {
-  font-family: 'Radley', Times, Georgia, serif;
+  font-family: Times, Georgia, serif;
   margin: 0 auto;
   width: 770px;
   font-size: 20px;
