@@ -1,5 +1,0 @@
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://orgmode.org/worg/style/worg.css" />
-
-#+TITLE: Gorazdowo
-
-- [[./szkoly/szkoly.org][Oświata w Gminie Kołaczkowo do r.1980 (szkic monograficzny)]]
